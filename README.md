@@ -13,7 +13,7 @@ data = pd.DataFrame({'whoAmI':lst})
 data.head()
 ```
 
-Для преобрадзования списка в One Hot реализован функция one_hot_enc.
+Для преобразования списка в формат One Hot реализован функция one_hot_enc.
 Исходный код программы в файле [src/main.py](src/main.py)
 
 
